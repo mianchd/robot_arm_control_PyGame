@@ -15,8 +15,11 @@
 4. Make sure the IK_Test_7DOF.ttt file is in same directory.
 5. run the "IK_Scaled.py" file with python.
 
-
+**Tested on Windows 10 and Ubuntu Linux 16.4 and 18.4**
 
 ### Demo
 
 ![Robot Arm Control](media/output.gif "Demo")
+
+
+

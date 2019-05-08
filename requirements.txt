@@ -1,0 +1,4 @@
+numpy==1.16.3
+pkg-resources==0.0.0
+psutil==5.6.2
+pygame==1.9.6
